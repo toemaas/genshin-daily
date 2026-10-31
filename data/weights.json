@@ -1,0 +1,8 @@
+{
+    "character|region=Sumeru": {
+      "character:nefer": 0.25
+    },
+    "artifact|stars=4": {
+      "artifact:instructor": 1.5
+    }
+}

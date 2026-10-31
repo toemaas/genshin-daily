@@ -1,0 +1,3686 @@
+{
+  "source": "genshin-db",
+  "sourceVersion": "5.2.14",
+  "scope": [
+    "character",
+    "weapon",
+    "artifact"
+  ],
+  "entities": [
+    {
+      "id": "character:aino",
+      "type": "character",
+      "name": "Aino",
+      "stars": 4,
+      "element": "Hydro",
+      "weaponType": "Claymore",
+      "region": "Nod-Krai",
+      "version": "6.0"
+    },
+    {
+      "id": "character:albedo",
+      "type": "character",
+      "name": "Albedo",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "1.2"
+    },
+    {
+      "id": "character:alhaitham",
+      "type": "character",
+      "name": "Alhaitham",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Sword",
+      "region": "Sumeru",
+      "version": "3.4"
+    },
+    {
+      "id": "character:aloy",
+      "type": "character",
+      "name": "Aloy",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Bow",
+      "version": "2.1"
+    },
+    {
+      "id": "character:alyosha",
+      "type": "character",
+      "name": "Alyosha",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Snezhnaya",
+      "version": "7.0"
+    },
+    {
+      "id": "character:amber",
+      "type": "character",
+      "name": "Amber",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Bow",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:aratakiitto",
+      "type": "character",
+      "name": "Arataki Itto",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Claymore",
+      "region": "Inazuma",
+      "version": "2.3"
+    },
+    {
+      "id": "character:arlecchino",
+      "type": "character",
+      "name": "Arlecchino",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Polearm",
+      "region": "Snezhnaya",
+      "version": "4.6"
+    },
+    {
+      "id": "character:baizhu",
+      "type": "character",
+      "name": "Baizhu",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Catalyst",
+      "region": "Liyue",
+      "version": "3.6"
+    },
+    {
+      "id": "character:barbara",
+      "type": "character",
+      "name": "Barbara",
+      "stars": 4,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:beidou",
+      "type": "character",
+      "name": "Beidou",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Claymore",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:bennett",
+      "type": "character",
+      "name": "Bennett",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:candace",
+      "type": "character",
+      "name": "Candace",
+      "stars": 4,
+      "element": "Hydro",
+      "weaponType": "Polearm",
+      "region": "Sumeru",
+      "version": "3.1"
+    },
+    {
+      "id": "character:charlotte",
+      "type": "character",
+      "name": "Charlotte",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Catalyst",
+      "region": "Fontaine",
+      "version": "4.2"
+    },
+    {
+      "id": "character:chasca",
+      "type": "character",
+      "name": "Chasca",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Bow",
+      "region": "Natlan",
+      "version": "5.2"
+    },
+    {
+      "id": "character:chevreuse",
+      "type": "character",
+      "name": "Chevreuse",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Polearm",
+      "region": "Fontaine",
+      "version": "4.3"
+    },
+    {
+      "id": "character:chiori",
+      "type": "character",
+      "name": "Chiori",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "4.5"
+    },
+    {
+      "id": "character:chongyun",
+      "type": "character",
+      "name": "Chongyun",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Claymore",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:citlali",
+      "type": "character",
+      "name": "Citlali",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Catalyst",
+      "region": "Natlan",
+      "version": "5.3"
+    },
+    {
+      "id": "character:clorinde",
+      "type": "character",
+      "name": "Clorinde",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Sword",
+      "region": "Fontaine",
+      "version": "4.7"
+    },
+    {
+      "id": "character:collei",
+      "type": "character",
+      "name": "Collei",
+      "stars": 4,
+      "element": "Dendro",
+      "weaponType": "Bow",
+      "region": "Sumeru",
+      "version": "3.0"
+    },
+    {
+      "id": "character:columbina",
+      "type": "character",
+      "name": "Columbina",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Nod-Krai",
+      "version": "6.3"
+    },
+    {
+      "id": "character:cyno",
+      "type": "character",
+      "name": "Cyno",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Sumeru",
+      "version": "3.1"
+    },
+    {
+      "id": "character:dahlia",
+      "type": "character",
+      "name": "Dahlia",
+      "stars": 4,
+      "element": "Hydro",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "5.7"
+    },
+    {
+      "id": "character:dehya",
+      "type": "character",
+      "name": "Dehya",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Claymore",
+      "region": "Sumeru",
+      "version": "3.5"
+    },
+    {
+      "id": "character:diluc",
+      "type": "character",
+      "name": "Diluc",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Claymore",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:diona",
+      "type": "character",
+      "name": "Diona",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Bow",
+      "region": "Mondstadt",
+      "version": "1.1"
+    },
+    {
+      "id": "character:dori",
+      "type": "character",
+      "name": "Dori",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Claymore",
+      "region": "Sumeru",
+      "version": "3.0"
+    },
+    {
+      "id": "character:durin",
+      "type": "character",
+      "name": "Durin",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "6.2"
+    },
+    {
+      "id": "character:emilie",
+      "type": "character",
+      "name": "Emilie",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Polearm",
+      "region": "Fontaine",
+      "version": "4.8"
+    },
+    {
+      "id": "character:escoffier",
+      "type": "character",
+      "name": "Escoffier",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Polearm",
+      "region": "Fontaine",
+      "version": "5.6"
+    },
+    {
+      "id": "character:eula",
+      "type": "character",
+      "name": "Eula",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Claymore",
+      "region": "Mondstadt",
+      "version": "1.5"
+    },
+    {
+      "id": "character:faruzan",
+      "type": "character",
+      "name": "Faruzan",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Bow",
+      "region": "Sumeru",
+      "version": "3.3"
+    },
+    {
+      "id": "character:fischl",
+      "type": "character",
+      "name": "Fischl",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Bow",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:flins",
+      "type": "character",
+      "name": "Flins",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Nod-Krai",
+      "version": "6.0"
+    },
+    {
+      "id": "character:freminet",
+      "type": "character",
+      "name": "Freminet",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Claymore",
+      "region": "Fontaine",
+      "version": "4.0"
+    },
+    {
+      "id": "character:furina",
+      "type": "character",
+      "name": "Furina",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Sword",
+      "region": "Fontaine",
+      "version": "4.2"
+    },
+    {
+      "id": "character:gaming",
+      "type": "character",
+      "name": "Gaming",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Claymore",
+      "region": "Liyue",
+      "version": "4.4"
+    },
+    {
+      "id": "character:ganyu",
+      "type": "character",
+      "name": "Ganyu",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Bow",
+      "region": "Liyue",
+      "version": "1.2"
+    },
+    {
+      "id": "character:gorou",
+      "type": "character",
+      "name": "Gorou",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Bow",
+      "region": "Inazuma",
+      "version": "2.3"
+    },
+    {
+      "id": "character:hutao",
+      "type": "character",
+      "name": "Hu Tao",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "1.3"
+    },
+    {
+      "id": "character:iansan",
+      "type": "character",
+      "name": "Iansan",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Natlan",
+      "version": "5.5"
+    },
+    {
+      "id": "character:ifa",
+      "type": "character",
+      "name": "Ifa",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Natlan",
+      "version": "5.6"
+    },
+    {
+      "id": "character:illuga",
+      "type": "character",
+      "name": "Illuga",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Polearm",
+      "region": "Nod-Krai",
+      "version": "6.3"
+    },
+    {
+      "id": "character:ineffa",
+      "type": "character",
+      "name": "Ineffa",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Nod-Krai",
+      "version": "5.8"
+    },
+    {
+      "id": "character:jahoda",
+      "type": "character",
+      "name": "Jahoda",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Bow",
+      "region": "Nod-Krai",
+      "version": "6.2"
+    },
+    {
+      "id": "character:jean",
+      "type": "character",
+      "name": "Jean",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:kachina",
+      "type": "character",
+      "name": "Kachina",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Polearm",
+      "region": "Natlan",
+      "version": "5.0"
+    },
+    {
+      "id": "character:kaedeharakazuha",
+      "type": "character",
+      "name": "Kaedehara Kazuha",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "1.6"
+    },
+    {
+      "id": "character:kaeya",
+      "type": "character",
+      "name": "Kaeya",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:kamisatoayaka",
+      "type": "character",
+      "name": "Kamisato Ayaka",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "2.0"
+    },
+    {
+      "id": "character:kamisatoayato",
+      "type": "character",
+      "name": "Kamisato Ayato",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "2.6"
+    },
+    {
+      "id": "character:kaveh",
+      "type": "character",
+      "name": "Kaveh",
+      "stars": 4,
+      "element": "Dendro",
+      "weaponType": "Claymore",
+      "region": "Sumeru",
+      "version": "3.6"
+    },
+    {
+      "id": "character:keqing",
+      "type": "character",
+      "name": "Keqing",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Sword",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:kinich",
+      "type": "character",
+      "name": "Kinich",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Claymore",
+      "region": "Natlan",
+      "version": "5.0"
+    },
+    {
+      "id": "character:kirara",
+      "type": "character",
+      "name": "Kirara",
+      "stars": 4,
+      "element": "Dendro",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "3.7"
+    },
+    {
+      "id": "character:klee",
+      "type": "character",
+      "name": "Klee",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:kujousara",
+      "type": "character",
+      "name": "Kujou Sara",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Bow",
+      "region": "Inazuma",
+      "version": "2.1"
+    },
+    {
+      "id": "character:kukishinobu",
+      "type": "character",
+      "name": "Kuki Shinobu",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Sword",
+      "region": "Inazuma",
+      "version": "2.7"
+    },
+    {
+      "id": "character:lanyan",
+      "type": "character",
+      "name": "Lan Yan",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Liyue",
+      "version": "5.3"
+    },
+    {
+      "id": "character:lauma",
+      "type": "character",
+      "name": "Lauma",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Catalyst",
+      "region": "Nod-Krai",
+      "version": "6.0"
+    },
+    {
+      "id": "character:layla",
+      "type": "character",
+      "name": "Layla",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "region": "Sumeru",
+      "version": "3.2"
+    },
+    {
+      "id": "character:linnea",
+      "type": "character",
+      "name": "Linnea",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Bow",
+      "region": "Nod-Krai",
+      "version": "6.5"
+    },
+    {
+      "id": "character:lisa",
+      "type": "character",
+      "name": "Lisa",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:lohen",
+      "type": "character",
+      "name": "Lohen",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Polearm",
+      "region": "Mondstadt",
+      "version": "6.6"
+    },
+    {
+      "id": "character:lynette",
+      "type": "character",
+      "name": "Lynette",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Sword",
+      "region": "Fontaine",
+      "version": "4.0"
+    },
+    {
+      "id": "character:lyney",
+      "type": "character",
+      "name": "Lyney",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Bow",
+      "region": "Fontaine",
+      "version": "4.0"
+    },
+    {
+      "id": "character:mavuika",
+      "type": "character",
+      "name": "Mavuika",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Claymore",
+      "region": "Natlan",
+      "version": "5.3"
+    },
+    {
+      "id": "character:mika",
+      "type": "character",
+      "name": "Mika",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Polearm",
+      "region": "Mondstadt",
+      "version": "3.5"
+    },
+    {
+      "id": "character:mona",
+      "type": "character",
+      "name": "Mona",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:mualani",
+      "type": "character",
+      "name": "Mualani",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Natlan",
+      "version": "5.0"
+    },
+    {
+      "id": "character:nahida",
+      "type": "character",
+      "name": "Nahida",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Catalyst",
+      "region": "Sumeru",
+      "version": "3.2"
+    },
+    {
+      "id": "character:navia",
+      "type": "character",
+      "name": "Navia",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Claymore",
+      "region": "Fontaine",
+      "version": "4.3"
+    },
+    {
+      "id": "character:nefer",
+      "type": "character",
+      "name": "Nefer",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Catalyst",
+      "region": "Nod-Krai",
+      "version": "6.1",
+      "exceptions": {
+        "region": [
+          "Sumeru"
+        ]
+      }
+    },
+    {
+      "id": "character:neuvillette",
+      "type": "character",
+      "name": "Neuvillette",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Fontaine",
+      "version": "4.1"
+    },
+    {
+      "id": "character:nicole",
+      "type": "character",
+      "name": "Nicole",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Catalyst",
+      "version": "6.6"
+    },
+    {
+      "id": "character:nilou",
+      "type": "character",
+      "name": "Nilou",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Sword",
+      "region": "Sumeru",
+      "version": "3.1"
+    },
+    {
+      "id": "character:ningguang",
+      "type": "character",
+      "name": "Ningguang",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Catalyst",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:noelle",
+      "type": "character",
+      "name": "Noelle",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Claymore",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:odette",
+      "type": "character",
+      "name": "Odette",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "region": "Snezhnaya",
+      "version": "7.0"
+    },
+    {
+      "id": "character:ororon",
+      "type": "character",
+      "name": "Ororon",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Bow",
+      "region": "Natlan",
+      "version": "5.2"
+    },
+    {
+      "id": "character:prune",
+      "type": "character",
+      "name": "Prune",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "6.6"
+    },
+    {
+      "id": "character:qiqi",
+      "type": "character",
+      "name": "Qiqi",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:raidenshogun",
+      "type": "character",
+      "name": "Raiden Shogun",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Polearm",
+      "region": "Inazuma",
+      "version": "2.1"
+    },
+    {
+      "id": "character:razor",
+      "type": "character",
+      "name": "Razor",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Claymore",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:rosaria",
+      "type": "character",
+      "name": "Rosaria",
+      "stars": 4,
+      "element": "Cryo",
+      "weaponType": "Polearm",
+      "region": "Mondstadt",
+      "version": "1.4"
+    },
+    {
+      "id": "character:sandrone",
+      "type": "character",
+      "name": "Sandrone",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Claymore",
+      "region": "Snezhnaya",
+      "version": "6.7"
+    },
+    {
+      "id": "character:sangonomiyakokomi",
+      "type": "character",
+      "name": "Sangonomiya Kokomi",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Inazuma",
+      "version": "2.1"
+    },
+    {
+      "id": "character:sayu",
+      "type": "character",
+      "name": "Sayu",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Claymore",
+      "region": "Inazuma",
+      "version": "2.0"
+    },
+    {
+      "id": "character:sethos",
+      "type": "character",
+      "name": "Sethos",
+      "stars": 4,
+      "element": "Electro",
+      "weaponType": "Bow",
+      "region": "Sumeru",
+      "version": "4.7"
+    },
+    {
+      "id": "character:shenhe",
+      "type": "character",
+      "name": "Shenhe",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "2.4"
+    },
+    {
+      "id": "character:shikanoinheizou",
+      "type": "character",
+      "name": "Shikanoin Heizou",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Inazuma",
+      "version": "2.8"
+    },
+    {
+      "id": "character:sigewinne",
+      "type": "character",
+      "name": "Sigewinne",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Bow",
+      "region": "Fontaine",
+      "version": "4.7"
+    },
+    {
+      "id": "character:skirk",
+      "type": "character",
+      "name": "Skirk",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Sword",
+      "version": "5.7"
+    },
+    {
+      "id": "character:sucrose",
+      "type": "character",
+      "name": "Sucrose",
+      "stars": 4,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:tartaglia",
+      "type": "character",
+      "name": "Tartaglia",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Bow",
+      "region": "Snezhnaya",
+      "version": "1.1"
+    },
+    {
+      "id": "character:thoma",
+      "type": "character",
+      "name": "Thoma",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Polearm",
+      "region": "Inazuma",
+      "version": "2.2"
+    },
+    {
+      "id": "character:tighnari",
+      "type": "character",
+      "name": "Tighnari",
+      "stars": 5,
+      "element": "Dendro",
+      "weaponType": "Bow",
+      "region": "Sumeru",
+      "version": "3.0"
+    },
+    {
+      "id": "character:traveler",
+      "type": "character",
+      "name": "Traveler",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "character:varesa",
+      "type": "character",
+      "name": "Varesa",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Catalyst",
+      "region": "Natlan",
+      "version": "5.5"
+    },
+    {
+      "id": "character:varka",
+      "type": "character",
+      "name": "Varka",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Claymore",
+      "region": "Mondstadt",
+      "version": "6.4"
+    },
+    {
+      "id": "character:venti",
+      "type": "character",
+      "name": "Venti",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Bow",
+      "region": "Mondstadt",
+      "version": "1.0"
+    },
+    {
+      "id": "character:vesna",
+      "type": "character",
+      "name": "Vesna",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Sword",
+      "region": "Snezhnaya",
+      "version": "7.1"
+    },
+    {
+      "id": "character:vodyanitsa",
+      "type": "character",
+      "name": "Vodyanitsa",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Catalyst",
+      "region": "Snezhnaya",
+      "version": "7.1"
+    },
+    {
+      "id": "character:wanderer",
+      "type": "character",
+      "name": "Wanderer",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Sumeru",
+      "version": "3.3"
+    },
+    {
+      "id": "character:wriothesley",
+      "type": "character",
+      "name": "Wriothesley",
+      "stars": 5,
+      "element": "Cryo",
+      "weaponType": "Catalyst",
+      "region": "Fontaine",
+      "version": "4.1"
+    },
+    {
+      "id": "character:xiangling",
+      "type": "character",
+      "name": "Xiangling",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:xianyun",
+      "type": "character",
+      "name": "Xianyun",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Liyue",
+      "version": "4.4"
+    },
+    {
+      "id": "character:xiao",
+      "type": "character",
+      "name": "Xiao",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "1.3"
+    },
+    {
+      "id": "character:xilonen",
+      "type": "character",
+      "name": "Xilonen",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Sword",
+      "region": "Natlan",
+      "version": "5.1"
+    },
+    {
+      "id": "character:xingqiu",
+      "type": "character",
+      "name": "Xingqiu",
+      "stars": 4,
+      "element": "Hydro",
+      "weaponType": "Sword",
+      "region": "Liyue",
+      "version": "1.0"
+    },
+    {
+      "id": "character:xinyan",
+      "type": "character",
+      "name": "Xinyan",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Claymore",
+      "region": "Liyue",
+      "version": "1.1"
+    },
+    {
+      "id": "character:yaemiko",
+      "type": "character",
+      "name": "Yae Miko",
+      "stars": 5,
+      "element": "Electro",
+      "weaponType": "Catalyst",
+      "region": "Inazuma",
+      "version": "2.5"
+    },
+    {
+      "id": "character:yanfei",
+      "type": "character",
+      "name": "Yanfei",
+      "stars": 4,
+      "element": "Pyro",
+      "weaponType": "Catalyst",
+      "region": "Liyue",
+      "version": "1.5"
+    },
+    {
+      "id": "character:yaoyao",
+      "type": "character",
+      "name": "Yaoyao",
+      "stars": 4,
+      "element": "Dendro",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "3.4"
+    },
+    {
+      "id": "character:yelan",
+      "type": "character",
+      "name": "Yelan",
+      "stars": 5,
+      "element": "Hydro",
+      "weaponType": "Bow",
+      "region": "Liyue",
+      "version": "2.7"
+    },
+    {
+      "id": "character:yoimiya",
+      "type": "character",
+      "name": "Yoimiya",
+      "stars": 5,
+      "element": "Pyro",
+      "weaponType": "Bow",
+      "region": "Inazuma",
+      "version": "2.0"
+    },
+    {
+      "id": "character:yumemizukimizuki",
+      "type": "character",
+      "name": "Yumemizuki Mizuki",
+      "stars": 5,
+      "element": "Anemo",
+      "weaponType": "Catalyst",
+      "region": "Inazuma",
+      "version": "5.4"
+    },
+    {
+      "id": "character:yunjin",
+      "type": "character",
+      "name": "Yun Jin",
+      "stars": 4,
+      "element": "Geo",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "2.4"
+    },
+    {
+      "id": "character:zhongli",
+      "type": "character",
+      "name": "Zhongli",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Polearm",
+      "region": "Liyue",
+      "version": "1.1"
+    },
+    {
+      "id": "character:zibai",
+      "type": "character",
+      "name": "Zibai",
+      "stars": 5,
+      "element": "Geo",
+      "weaponType": "Sword",
+      "region": "Nod-Krai",
+      "version": "6.3"
+    },
+    {
+      "id": "weapon:absolution",
+      "type": "weapon",
+      "name": "Absolution",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "4.7"
+    },
+    {
+      "id": "weapon:akuoumaru",
+      "type": "weapon",
+      "name": "Akuoumaru",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "2.2"
+    },
+    {
+      "id": "weapon:alleyhunter",
+      "type": "weapon",
+      "name": "Alley Hunter",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.4"
+    },
+    {
+      "id": "weapon:amenomakageuchi",
+      "type": "weapon",
+      "name": "Amenoma Kageuchi",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:amosbow",
+      "type": "weapon",
+      "name": "Amos' Bow",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:angelosheptades",
+      "type": "weapon",
+      "name": "Angelos' Heptades",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "6.6"
+    },
+    {
+      "id": "weapon:apprenticesnotes",
+      "type": "weapon",
+      "name": "Apprentice's Notes",
+      "stars": 1,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:aquasimulacra",
+      "type": "weapon",
+      "name": "Aqua Simulacra",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "2.7"
+    },
+    {
+      "id": "weapon:aquilafavonia",
+      "type": "weapon",
+      "name": "Aquila Favonia",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:ashgravendrinkinghorn",
+      "type": "weapon",
+      "name": "Ash-Graven Drinking Horn",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:astralvulturescrimsonplumage",
+      "type": "weapon",
+      "name": "Astral Vulture's Crimson Plumage",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "5.2"
+    },
+    {
+      "id": "weapon:ateaspoonoftranscendence",
+      "type": "weapon",
+      "name": "A Teaspoon of Transcendence",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "6.7"
+    },
+    {
+      "id": "weapon:athameartis",
+      "type": "weapon",
+      "name": "Athame Artis",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "6.2"
+    },
+    {
+      "id": "weapon:athousandblazingsuns",
+      "type": "weapon",
+      "name": "A Thousand Blazing Suns",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "5.3"
+    },
+    {
+      "id": "weapon:athousandfloatingdreams",
+      "type": "weapon",
+      "name": "A Thousand Floating Dreams",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "3.2"
+    },
+    {
+      "id": "weapon:azurelight",
+      "type": "weapon",
+      "name": "Azurelight",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "5.7"
+    },
+    {
+      "id": "weapon:balladoftheboundlessblue",
+      "type": "weapon",
+      "name": "Ballad of the Boundless Blue",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:balladofthefjords",
+      "type": "weapon",
+      "name": "Ballad of the Fjords",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:beaconofthereedsea",
+      "type": "weapon",
+      "name": "Beacon of the Reed Sea",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "3.5"
+    },
+    {
+      "id": "weapon:beginnersprotector",
+      "type": "weapon",
+      "name": "Beginner's Protector",
+      "stars": 1,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:beyondthechrysalis",
+      "type": "weapon",
+      "name": "Beyond the Chrysalis",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:blackcliffagate",
+      "type": "weapon",
+      "name": "Blackcliff Agate",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:blackclifflongsword",
+      "type": "weapon",
+      "name": "Blackcliff Longsword",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:blackcliffpole",
+      "type": "weapon",
+      "name": "Blackcliff Pole",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:blackcliffslasher",
+      "type": "weapon",
+      "name": "Blackcliff Slasher",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:blackcliffwarbow",
+      "type": "weapon",
+      "name": "Blackcliff Warbow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:blackmarrowlantern",
+      "type": "weapon",
+      "name": "Blackmarrow Lantern",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:blacktassel",
+      "type": "weapon",
+      "name": "Black Tassel",
+      "stars": 3,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:bladeofatonement",
+      "type": "weapon",
+      "name": "Blade of Atonement",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:bloodsoakedruins",
+      "type": "weapon",
+      "name": "Bloodsoaked Ruins",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:bloodtaintedgreatsword",
+      "type": "weapon",
+      "name": "Bloodtainted Greatsword",
+      "stars": 3,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:breezebornerefrain",
+      "type": "weapon",
+      "name": "Breezeborne Refrain",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:calamityofeshu",
+      "type": "weapon",
+      "name": "Calamity of Eshu",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "5.2"
+    },
+    {
+      "id": "weapon:calamityqueller",
+      "type": "weapon",
+      "name": "Calamity Queller",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "2.4"
+    },
+    {
+      "id": "weapon:cashflowsupervision",
+      "type": "weapon",
+      "name": "Cashflow Supervision",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:chainbreaker",
+      "type": "weapon",
+      "name": "Chain Breaker",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:cinnabarspindle",
+      "type": "weapon",
+      "name": "Cinnabar Spindle",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "2.3"
+    },
+    {
+      "id": "weapon:clashofkings",
+      "type": "weapon",
+      "name": "Clash of Kings",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:cloudforged",
+      "type": "weapon",
+      "name": "Cloudforged",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "4.7"
+    },
+    {
+      "id": "weapon:compoundbow",
+      "type": "weapon",
+      "name": "Compound Bow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:coolsteel",
+      "type": "weapon",
+      "name": "Cool Steel",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:covenantoffrostandsnow",
+      "type": "weapon",
+      "name": "Covenant of Frost and Snow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:cranesechoingcall",
+      "type": "weapon",
+      "name": "Crane's Echoing Call",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "4.4"
+    },
+    {
+      "id": "weapon:crescentpike",
+      "type": "weapon",
+      "name": "Crescent Pike",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:crimsonmoonssemblance",
+      "type": "weapon",
+      "name": "Crimson Moon's Semblance",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "4.6"
+    },
+    {
+      "id": "weapon:darkironsword",
+      "type": "weapon",
+      "name": "Dark Iron Sword",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:dawningfrost",
+      "type": "weapon",
+      "name": "Dawning Frost",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "6.1"
+    },
+    {
+      "id": "weapon:deathmatch",
+      "type": "weapon",
+      "name": "Deathmatch",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:debateclub",
+      "type": "weapon",
+      "name": "Debate Club",
+      "stars": 3,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:dialoguesofthedesertsages",
+      "type": "weapon",
+      "name": "Dialogues of the Desert Sages",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "4.5"
+    },
+    {
+      "id": "weapon:disasterandremorse",
+      "type": "weapon",
+      "name": "Disaster and Remorse",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "6.6"
+    },
+    {
+      "id": "weapon:dodocotales",
+      "type": "weapon",
+      "name": "Dodoco Tales",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.6"
+    },
+    {
+      "id": "weapon:dragonsbane",
+      "type": "weapon",
+      "name": "Dragon's Bane",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:dragonspinespear",
+      "type": "weapon",
+      "name": "Dragonspine Spear",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.2"
+    },
+    {
+      "id": "weapon:dullblade",
+      "type": "weapon",
+      "name": "Dull Blade",
+      "stars": 1,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:earthshaker",
+      "type": "weapon",
+      "name": "Earth Shaker",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:echoesoftheheart",
+      "type": "weapon",
+      "name": "Echoes of the Heart",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:elegyfortheend",
+      "type": "weapon",
+      "name": "Elegy for the End",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "1.4"
+    },
+    {
+      "id": "weapon:emberwell",
+      "type": "weapon",
+      "name": "Emberwell",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:emeraldorb",
+      "type": "weapon",
+      "name": "Emerald Orb",
+      "stars": 3,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:endoftheline",
+      "type": "weapon",
+      "name": "End of the Line",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:engulfinglightning",
+      "type": "weapon",
+      "name": "Engulfing Lightning",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "2.1"
+    },
+    {
+      "id": "weapon:etherlightspindlelute",
+      "type": "weapon",
+      "name": "Etherlight Spindlelute",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:everlastingmoonglow",
+      "type": "weapon",
+      "name": "Everlasting Moonglow",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "2.1"
+    },
+    {
+      "id": "weapon:exaiphanesblade",
+      "type": "weapon",
+      "name": "Exaiphanes Blade",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:eyeofperception",
+      "type": "weapon",
+      "name": "Eye of Perception",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:fadingtwilight",
+      "type": "weapon",
+      "name": "Fading Twilight",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "2.7"
+    },
+    {
+      "id": "weapon:fangofthemountainking",
+      "type": "weapon",
+      "name": "Fang of the Mountain King",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:favoniuscodex",
+      "type": "weapon",
+      "name": "Favonius Codex",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:favoniusgreatsword",
+      "type": "weapon",
+      "name": "Favonius Greatsword",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:favoniuslance",
+      "type": "weapon",
+      "name": "Favonius Lance",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:favoniussword",
+      "type": "weapon",
+      "name": "Favonius Sword",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:favoniuswarbow",
+      "type": "weapon",
+      "name": "Favonius Warbow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:ferrousshadow",
+      "type": "weapon",
+      "name": "Ferrous Shadow",
+      "stars": 3,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:festeringdesire",
+      "type": "weapon",
+      "name": "Festering Desire",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.2"
+    },
+    {
+      "id": "weapon:filletblade",
+      "type": "weapon",
+      "name": "Fillet Blade",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:finaleofthedeep",
+      "type": "weapon",
+      "name": "Finale of the Deep",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:flameforgedinsight",
+      "type": "weapon",
+      "name": "Flame-Forged Insight",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "5.8"
+    },
+    {
+      "id": "weapon:fleuvecendreferryman",
+      "type": "weapon",
+      "name": "Fleuve Cendre Ferryman",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:flowerwreathedfeathers",
+      "type": "weapon",
+      "name": "Flower-Wreathed Feathers",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "5.2"
+    },
+    {
+      "id": "weapon:flowingpurity",
+      "type": "weapon",
+      "name": "Flowing Purity",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:fluteofezpitzal",
+      "type": "weapon",
+      "name": "Flute of Ezpitzal",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:footprintoftherainbow",
+      "type": "weapon",
+      "name": "Footprint of the Rainbow",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:forestregalia",
+      "type": "weapon",
+      "name": "Forest Regalia",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:forgedbythegoldenmelody",
+      "type": "weapon",
+      "name": "Forged by the Golden Melody",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:fracturedhalo",
+      "type": "weapon",
+      "name": "Fractured Halo",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "5.8"
+    },
+    {
+      "id": "weapon:freedomsworn",
+      "type": "weapon",
+      "name": "Freedom-Sworn",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.6"
+    },
+    {
+      "id": "weapon:frostbearer",
+      "type": "weapon",
+      "name": "Frostbearer",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.2"
+    },
+    {
+      "id": "weapon:frostbreath",
+      "type": "weapon",
+      "name": "Frostbreath",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:fruitfulhook",
+      "type": "weapon",
+      "name": "Fruitful Hook",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "5.1"
+    },
+    {
+      "id": "weapon:fruitoffulfillment",
+      "type": "weapon",
+      "name": "Fruit of Fulfillment",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:gestofthemightywolf",
+      "type": "weapon",
+      "name": "Gest of the Mighty Wolf",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "6.4"
+    },
+    {
+      "id": "weapon:goldenfrostboundoath",
+      "type": "weapon",
+      "name": "Golden Frostbound Oath",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "6.5"
+    },
+    {
+      "id": "weapon:hakushinring",
+      "type": "weapon",
+      "name": "Hakushin Ring",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:halberd",
+      "type": "weapon",
+      "name": "Halberd",
+      "stars": 3,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:hamayumi",
+      "type": "weapon",
+      "name": "Hamayumi",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:harangeppakufutsu",
+      "type": "weapon",
+      "name": "Haran Geppaku Futsu",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "2.6"
+    },
+    {
+      "id": "weapon:harbingerofdawn",
+      "type": "weapon",
+      "name": "Harbinger of Dawn",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:hereticsmoltenblade",
+      "type": "weapon",
+      "name": "Heretic's Molten Blade",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:huntersbow",
+      "type": "weapon",
+      "name": "Hunter's Bow",
+      "stars": 1,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:hunterspath",
+      "type": "weapon",
+      "name": "Hunter's Path",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:hymnofthemaelstrom",
+      "type": "weapon",
+      "name": "Hymn of the Maelstrom",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:ibispiercer",
+      "type": "weapon",
+      "name": "Ibis Piercer",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "3.7"
+    },
+    {
+      "id": "weapon:ironpoint",
+      "type": "weapon",
+      "name": "Iron Point",
+      "stars": 2,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:ironsting",
+      "type": "weapon",
+      "name": "Iron Sting",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:jadefallssplendor",
+      "type": "weapon",
+      "name": "Jadefall's Splendor",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "3.6"
+    },
+    {
+      "id": "weapon:jadevista",
+      "type": "weapon",
+      "name": "Jade Vista",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:kagotsurubeisshin",
+      "type": "weapon",
+      "name": "Kagotsurube Isshin",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "2.8"
+    },
+    {
+      "id": "weapon:kagurasverity",
+      "type": "weapon",
+      "name": "Kagura's Verity",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "2.5"
+    },
+    {
+      "id": "weapon:katsuragikirinagamasa",
+      "type": "weapon",
+      "name": "Katsuragikiri Nagamasa",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:keyofkhajnisut",
+      "type": "weapon",
+      "name": "Key of Khaj-Nisut",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "3.1"
+    },
+    {
+      "id": "weapon:kingssquire",
+      "type": "weapon",
+      "name": "King's Squire",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:kitaincrossspear",
+      "type": "weapon",
+      "name": "Kitain Cross Spear",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:lightbearingmoonshard",
+      "type": "weapon",
+      "name": "Lightbearing Moonshard",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "6.3"
+    },
+    {
+      "id": "weapon:lightoffoliarincision",
+      "type": "weapon",
+      "name": "Light of Foliar Incision",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "3.4"
+    },
+    {
+      "id": "weapon:lionsroar",
+      "type": "weapon",
+      "name": "Lion's Roar",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:lithicblade",
+      "type": "weapon",
+      "name": "Lithic Blade",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.3"
+    },
+    {
+      "id": "weapon:lithicspear",
+      "type": "weapon",
+      "name": "Lithic Spear",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.3"
+    },
+    {
+      "id": "weapon:lostprayertothesacredwinds",
+      "type": "weapon",
+      "name": "Lost Prayer to the Sacred Winds",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:lumidouceelegy",
+      "type": "weapon",
+      "name": "Lumidouce Elegy",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "4.8"
+    },
+    {
+      "id": "weapon:luxurioussealord",
+      "type": "weapon",
+      "name": "Luxurious Sea-Lord",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "2.1"
+    },
+    {
+      "id": "weapon:magicguide",
+      "type": "weapon",
+      "name": "Magic Guide",
+      "stars": 3,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:mailedflower",
+      "type": "weapon",
+      "name": "Mailed Flower",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "3.5"
+    },
+    {
+      "id": "weapon:makhairaaquamarine",
+      "type": "weapon",
+      "name": "Makhaira Aquamarine",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "3.1"
+    },
+    {
+      "id": "weapon:mappamare",
+      "type": "weapon",
+      "name": "Mappa Mare",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:masterkey",
+      "type": "weapon",
+      "name": "Master Key",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:memoryofdust",
+      "type": "weapon",
+      "name": "Memory of Dust",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "1.1"
+    },
+    {
+      "id": "weapon:messenger",
+      "type": "weapon",
+      "name": "Messenger",
+      "stars": 3,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:missivewindspear",
+      "type": "weapon",
+      "name": "Missive Windspear",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "3.1"
+    },
+    {
+      "id": "weapon:mistsplitterreforged",
+      "type": "weapon",
+      "name": "Mistsplitter Reforged",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:mitternachtswaltz",
+      "type": "weapon",
+      "name": "Mitternachts Waltz",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.6"
+    },
+    {
+      "id": "weapon:moonpiercer",
+      "type": "weapon",
+      "name": "Moonpiercer",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:moonweaversdawn",
+      "type": "weapon",
+      "name": "Moonweaver's Dawn",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:mountainbracingbolt",
+      "type": "weapon",
+      "name": "Mountain-Bracing Bolt",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "5.1"
+    },
+    {
+      "id": "weapon:mouunsmoon",
+      "type": "weapon",
+      "name": "Mouun's Moon",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "2.2"
+    },
+    {
+      "id": "weapon:newbough",
+      "type": "weapon",
+      "name": "New Bough",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:nightweaverslookingglass",
+      "type": "weapon",
+      "name": "Nightweaver's Looking Glass",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:nocturnescurtaincall",
+      "type": "weapon",
+      "name": "Nocturne's Curtain Call",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "6.3"
+    },
+    {
+      "id": "weapon:oathsworneye",
+      "type": "weapon",
+      "name": "Oathsworn Eye",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "2.5"
+    },
+    {
+      "id": "weapon:oldmercspal",
+      "type": "weapon",
+      "name": "Old Merc's Pal",
+      "stars": 2,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:otherworldlystory",
+      "type": "weapon",
+      "name": "Otherworldly Story",
+      "stars": 3,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:peakpatrolsong",
+      "type": "weapon",
+      "name": "Peak Patrol Song",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "5.1"
+    },
+    {
+      "id": "weapon:pocketgrimoire",
+      "type": "weapon",
+      "name": "Pocket Grimoire",
+      "stars": 2,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:polarstar",
+      "type": "weapon",
+      "name": "Polar Star",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "2.2"
+    },
+    {
+      "id": "weapon:portablepowersaw",
+      "type": "weapon",
+      "name": "Portable Power Saw",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:predator",
+      "type": "weapon",
+      "name": "Predator",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "2.1"
+    },
+    {
+      "id": "weapon:primordialjadecutter",
+      "type": "weapon",
+      "name": "Primordial Jade Cutter",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.3"
+    },
+    {
+      "id": "weapon:primordialjadewingedspear",
+      "type": "weapon",
+      "name": "Primordial Jade Winged-Spear",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:prizedisshinblade",
+      "type": "weapon",
+      "name": "Prized Isshin Blade",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "2.8"
+    },
+    {
+      "id": "weapon:prospectorsdrill",
+      "type": "weapon",
+      "name": "Prospector's Drill",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:prospectorsshovel",
+      "type": "weapon",
+      "name": "Prospector's Shovel",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:prototypeamber",
+      "type": "weapon",
+      "name": "Prototype Amber",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:prototypearchaic",
+      "type": "weapon",
+      "name": "Prototype Archaic",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:prototypecrescent",
+      "type": "weapon",
+      "name": "Prototype Crescent",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:prototyperancour",
+      "type": "weapon",
+      "name": "Prototype Rancour",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:prototypestarglitter",
+      "type": "weapon",
+      "name": "Prototype Starglitter",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:rainbowserpentsrainbow",
+      "type": "weapon",
+      "name": "Rainbow Serpent's Rain Bow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "6.2"
+    },
+    {
+      "id": "weapon:rainslasher",
+      "type": "weapon",
+      "name": "Rainslasher",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:rangegauge",
+      "type": "weapon",
+      "name": "Range Gauge",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:ravenbow",
+      "type": "weapon",
+      "name": "Raven Bow",
+      "stars": 3,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:recurvebow",
+      "type": "weapon",
+      "name": "Recurve Bow",
+      "stars": 3,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:redhornstonethresher",
+      "type": "weapon",
+      "name": "Redhorn Stonethresher",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "2.3"
+    },
+    {
+      "id": "weapon:reliquaryoftruth",
+      "type": "weapon",
+      "name": "Reliquary of Truth",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "6.1"
+    },
+    {
+      "id": "weapon:rightfulreward",
+      "type": "weapon",
+      "name": "Rightful Reward",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:ringofyaxche",
+      "type": "weapon",
+      "name": "Ring of Yaxche",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:royalbow",
+      "type": "weapon",
+      "name": "Royal Bow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:royalgreatsword",
+      "type": "weapon",
+      "name": "Royal Greatsword",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:royalgrimoire",
+      "type": "weapon",
+      "name": "Royal Grimoire",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:royallongsword",
+      "type": "weapon",
+      "name": "Royal Longsword",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:royalspear",
+      "type": "weapon",
+      "name": "Royal Spear",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "1.1"
+    },
+    {
+      "id": "weapon:rust",
+      "type": "weapon",
+      "name": "Rust",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sacrificersstaff",
+      "type": "weapon",
+      "name": "Sacrificer's Staff",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "6.1"
+    },
+    {
+      "id": "weapon:sacrificialbow",
+      "type": "weapon",
+      "name": "Sacrificial Bow",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sacrificialfragments",
+      "type": "weapon",
+      "name": "Sacrificial Fragments",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sacrificialgreatsword",
+      "type": "weapon",
+      "name": "Sacrificial Greatsword",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sacrificialjade",
+      "type": "weapon",
+      "name": "Sacrificial Jade",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:sacrificialsword",
+      "type": "weapon",
+      "name": "Sacrificial Sword",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sapwoodblade",
+      "type": "weapon",
+      "name": "Sapwood Blade",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "3.0"
+    },
+    {
+      "id": "weapon:scionoftheblazingsun",
+      "type": "weapon",
+      "name": "Scion of the Blazing Sun",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:seasonedhuntersbow",
+      "type": "weapon",
+      "name": "Seasoned Hunter's Bow",
+      "stars": 2,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sequenceofsolitude",
+      "type": "weapon",
+      "name": "Sequence of Solitude",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "5.6"
+    },
+    {
+      "id": "weapon:serenityscall",
+      "type": "weapon",
+      "name": "Serenity's Call",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:serpentspine",
+      "type": "weapon",
+      "name": "Serpent Spine",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:sharpshootersoath",
+      "type": "weapon",
+      "name": "Sharpshooter's Oath",
+      "stars": 3,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:silverlight",
+      "type": "weapon",
+      "name": "Silver Light",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:silvershowerheartstrings",
+      "type": "weapon",
+      "name": "Silvershower Heartstrings",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "4.7"
+    },
+    {
+      "id": "weapon:silversword",
+      "type": "weapon",
+      "name": "Silver Sword",
+      "stars": 2,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skyridergreatsword",
+      "type": "weapon",
+      "name": "Skyrider Greatsword",
+      "stars": 3,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skyridersword",
+      "type": "weapon",
+      "name": "Skyrider Sword",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skywardatlas",
+      "type": "weapon",
+      "name": "Skyward Atlas",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skywardblade",
+      "type": "weapon",
+      "name": "Skyward Blade",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skywardharp",
+      "type": "weapon",
+      "name": "Skyward Harp",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skywardpride",
+      "type": "weapon",
+      "name": "Skyward Pride",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:skywardspine",
+      "type": "weapon",
+      "name": "Skyward Spine",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:slingshot",
+      "type": "weapon",
+      "name": "Slingshot",
+      "stars": 3,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:snarehook",
+      "type": "weapon",
+      "name": "Snare Hook",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "6.0"
+    },
+    {
+      "id": "weapon:snowtombedstarsilver",
+      "type": "weapon",
+      "name": "Snow-Tombed Starsilver",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.2"
+    },
+    {
+      "id": "weapon:solarpearl",
+      "type": "weapon",
+      "name": "Solar Pearl",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:songofbrokenpines",
+      "type": "weapon",
+      "name": "Song of Broken Pines",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "1.5"
+    },
+    {
+      "id": "weapon:songofstillness",
+      "type": "weapon",
+      "name": "Song of Stillness",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:songofthevigil",
+      "type": "weapon",
+      "name": "Song of the Vigil",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:splendoroftranquilwaters",
+      "type": "weapon",
+      "name": "Splendor of Tranquil Waters",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "4.2"
+    },
+    {
+      "id": "weapon:staffofhoma",
+      "type": "weapon",
+      "name": "Staff of Homa",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "1.3"
+    },
+    {
+      "id": "weapon:staffofthescarletsands",
+      "type": "weapon",
+      "name": "Staff of the Scarlet Sands",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "3.1"
+    },
+    {
+      "id": "weapon:starcallerswatch",
+      "type": "weapon",
+      "name": "Starcaller's Watch",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "5.3"
+    },
+    {
+      "id": "weapon:sturdybone",
+      "type": "weapon",
+      "name": "Sturdy Bone",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "5.1"
+    },
+    {
+      "id": "weapon:summitshaper",
+      "type": "weapon",
+      "name": "Summit Shaper",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "1.2"
+    },
+    {
+      "id": "weapon:sunnymorningsleepin",
+      "type": "weapon",
+      "name": "Sunny Morning Sleep-In",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "5.4"
+    },
+    {
+      "id": "weapon:surfsup",
+      "type": "weapon",
+      "name": "Surf's Up",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "5.0"
+    },
+    {
+      "id": "weapon:swordofdescension",
+      "type": "weapon",
+      "name": "Sword of Descension",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:swordofnarzissenkreuz",
+      "type": "weapon",
+      "name": "Sword of Narzissenkreuz",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "4.2"
+    },
+    {
+      "id": "weapon:symphonistofscents",
+      "type": "weapon",
+      "name": "Symphonist of Scents",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "5.6"
+    },
+    {
+      "id": "weapon:talkingstick",
+      "type": "weapon",
+      "name": "Talking Stick",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:tamayurateinoohanashi",
+      "type": "weapon",
+      "name": "Tamayuratei no Ohanashi",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "5.4"
+    },
+    {
+      "id": "weapon:thealleyflash",
+      "type": "weapon",
+      "name": "The Alley Flash",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.4"
+    },
+    {
+      "id": "weapon:thebell",
+      "type": "weapon",
+      "name": "The Bell",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:theblacksword",
+      "type": "weapon",
+      "name": "The Black Sword",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:thecatch",
+      "type": "weapon",
+      "name": "\"The Catch\"",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "2.1"
+    },
+    {
+      "id": "weapon:thedaybreakchronicles",
+      "type": "weapon",
+      "name": "The Daybreak Chronicles",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "6.2"
+    },
+    {
+      "id": "weapon:thedockhandsassistant",
+      "type": "weapon",
+      "name": "The Dockhand's Assistant",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:thefirstgreatmagic",
+      "type": "weapon",
+      "name": "The First Great Magic",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:theflute",
+      "type": "weapon",
+      "name": "The Flute",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:thestringless",
+      "type": "weapon",
+      "name": "The Stringless",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:theunforged",
+      "type": "weapon",
+      "name": "The Unforged",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "1.1"
+    },
+    {
+      "id": "weapon:theviridescenthunt",
+      "type": "weapon",
+      "name": "The Viridescent Hunt",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:thewidsith",
+      "type": "weapon",
+      "name": "The Widsith",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:thrillingtalesofdragonslayers",
+      "type": "weapon",
+      "name": "Thrilling Tales of Dragon Slayers",
+      "stars": 3,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:thunderingpulse",
+      "type": "weapon",
+      "name": "Thundering Pulse",
+      "stars": 5,
+      "weaponType": "Bow",
+      "version": "2.0"
+    },
+    {
+      "id": "weapon:tidalshadow",
+      "type": "weapon",
+      "name": "Tidal Shadow",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:tomeoftheeternalflow",
+      "type": "weapon",
+      "name": "Tome of the Eternal Flow",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "4.1"
+    },
+    {
+      "id": "weapon:toukaboushigure",
+      "type": "weapon",
+      "name": "Toukabou Shigure",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "3.3"
+    },
+    {
+      "id": "weapon:travelershandysword",
+      "type": "weapon",
+      "name": "Traveler's Handy Sword",
+      "stars": 3,
+      "weaponType": "Sword",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:tulaytullahsremembrance",
+      "type": "weapon",
+      "name": "Tulaytullah's Remembrance",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "3.3"
+    },
+    {
+      "id": "weapon:twinnephrite",
+      "type": "weapon",
+      "name": "Twin Nephrite",
+      "stars": 3,
+      "weaponType": "Catalyst",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:ultimateoverlordsmegamagicsword",
+      "type": "weapon",
+      "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "4.3"
+    },
+    {
+      "id": "weapon:urakumisugiri",
+      "type": "weapon",
+      "name": "Uraku Misugiri",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "4.5"
+    },
+    {
+      "id": "weapon:verdict",
+      "type": "weapon",
+      "name": "Verdict",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "4.3"
+    },
+    {
+      "id": "weapon:vividnotions",
+      "type": "weapon",
+      "name": "Vivid Notions",
+      "stars": 5,
+      "weaponType": "Catalyst",
+      "version": "5.5"
+    },
+    {
+      "id": "weapon:vortexvanquisher",
+      "type": "weapon",
+      "name": "Vortex Vanquisher",
+      "stars": 5,
+      "weaponType": "Polearm",
+      "version": "1.1"
+    },
+    {
+      "id": "weapon:wanderingevenstar",
+      "type": "weapon",
+      "name": "Wandering Evenstar",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "3.1"
+    },
+    {
+      "id": "weapon:wastergreatsword",
+      "type": "weapon",
+      "name": "Waster Greatsword",
+      "stars": 1,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:wavebreakersfin",
+      "type": "weapon",
+      "name": "Wavebreaker's Fin",
+      "stars": 4,
+      "weaponType": "Polearm",
+      "version": "2.2"
+    },
+    {
+      "id": "weapon:waveridingwhirl",
+      "type": "weapon",
+      "name": "Waveriding Whirl",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "5.2"
+    },
+    {
+      "id": "weapon:whiteblind",
+      "type": "weapon",
+      "name": "Whiteblind",
+      "stars": 4,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:whiteirongreatsword",
+      "type": "weapon",
+      "name": "White Iron Greatsword",
+      "stars": 3,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:whitelakefrostfeather",
+      "type": "weapon",
+      "name": "Whitelake Frostfeather",
+      "stars": 5,
+      "weaponType": "Sword",
+      "version": "7.0"
+    },
+    {
+      "id": "weapon:whitetassel",
+      "type": "weapon",
+      "name": "White Tassel",
+      "stars": 3,
+      "weaponType": "Polearm",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:windblumeode",
+      "type": "weapon",
+      "name": "Windblume Ode",
+      "stars": 4,
+      "weaponType": "Bow",
+      "version": "1.4"
+    },
+    {
+      "id": "weapon:wineandsong",
+      "type": "weapon",
+      "name": "Wine and Song",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "1.4"
+    },
+    {
+      "id": "weapon:wintersheavyheart",
+      "type": "weapon",
+      "name": "Winter's Heavy Heart",
+      "stars": 4,
+      "weaponType": "Catalyst",
+      "version": "7.1"
+    },
+    {
+      "id": "weapon:wolffang",
+      "type": "weapon",
+      "name": "Wolf-Fang",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "4.0"
+    },
+    {
+      "id": "weapon:wolfsgravestone",
+      "type": "weapon",
+      "name": "Wolf's Gravestone",
+      "stars": 5,
+      "weaponType": "Claymore",
+      "version": "1.0"
+    },
+    {
+      "id": "weapon:xiphosmoonlight",
+      "type": "weapon",
+      "name": "Xiphos' Moonlight",
+      "stars": 4,
+      "weaponType": "Sword",
+      "version": "3.1"
+    },
+    {
+      "id": "artifact:adaycarvedfromrisingwinds",
+      "type": "artifact",
+      "name": "A Day Carved From Rising Winds",
+      "stars": 5,
+      "version": "6.3"
+    },
+    {
+      "id": "artifact:adventurer",
+      "type": "artifact",
+      "name": "Adventurer",
+      "stars": 3,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:archaicpetra",
+      "type": "artifact",
+      "name": "Archaic Petra",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:aubadeofmorningstarandmoon",
+      "type": "artifact",
+      "name": "Aubade of Morningstar and Moon",
+      "stars": 5,
+      "version": "6.3"
+    },
+    {
+      "id": "artifact:berserker",
+      "type": "artifact",
+      "name": "Berserker",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:blizzardstrayer",
+      "type": "artifact",
+      "name": "Blizzard Strayer",
+      "stars": 5,
+      "version": "1.2"
+    },
+    {
+      "id": "artifact:bloodstainedchivalry",
+      "type": "artifact",
+      "name": "Bloodstained Chivalry",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:braveheart",
+      "type": "artifact",
+      "name": "Brave Heart",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:celestialgift",
+      "type": "artifact",
+      "name": "Celestial Gift",
+      "stars": 5,
+      "version": "6.6"
+    },
+    {
+      "id": "artifact:crimsonwitchofflames",
+      "type": "artifact",
+      "name": "Crimson Witch of Flames",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:deepwoodmemories",
+      "type": "artifact",
+      "name": "Deepwood Memories",
+      "stars": 5,
+      "version": "3.0"
+    },
+    {
+      "id": "artifact:defenderswill",
+      "type": "artifact",
+      "name": "Defender's Will",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:desertpavilionchronicle",
+      "type": "artifact",
+      "name": "Desert Pavilion Chronicle",
+      "stars": 5,
+      "version": "3.3"
+    },
+    {
+      "id": "artifact:disenchantmentindeepshadow",
+      "type": "artifact",
+      "name": "Disenchantment in Deep Shadow",
+      "stars": 5,
+      "version": "6.6"
+    },
+    {
+      "id": "artifact:echoesofanoffering",
+      "type": "artifact",
+      "name": "Echoes of an Offering",
+      "stars": 5,
+      "version": "2.6"
+    },
+    {
+      "id": "artifact:emblemofseveredfate",
+      "type": "artifact",
+      "name": "Emblem of Severed Fate",
+      "stars": 5,
+      "version": "2.0"
+    },
+    {
+      "id": "artifact:finaleofthedeepgalleries",
+      "type": "artifact",
+      "name": "Finale of the Deep Galleries",
+      "stars": 5,
+      "version": "5.5"
+    },
+    {
+      "id": "artifact:flowerofparadiselost",
+      "type": "artifact",
+      "name": "Flower of Paradise Lost",
+      "stars": 5,
+      "version": "3.3"
+    },
+    {
+      "id": "artifact:fragmentofharmonicwhimsy",
+      "type": "artifact",
+      "name": "Fragment of Harmonic Whimsy",
+      "stars": 5,
+      "version": "4.6"
+    },
+    {
+      "id": "artifact:gambler",
+      "type": "artifact",
+      "name": "Gambler",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:gildeddreams",
+      "type": "artifact",
+      "name": "Gilded Dreams",
+      "stars": 5,
+      "version": "3.0"
+    },
+    {
+      "id": "artifact:gladiatorsfinale",
+      "type": "artifact",
+      "name": "Gladiator's Finale",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:goldentroupe",
+      "type": "artifact",
+      "name": "Golden Troupe",
+      "stars": 5,
+      "version": "4.0"
+    },
+    {
+      "id": "artifact:heartofdepth",
+      "type": "artifact",
+      "name": "Heart of Depth",
+      "stars": 5,
+      "version": "1.2"
+    },
+    {
+      "id": "artifact:heartofthefurnace",
+      "type": "artifact",
+      "name": "Heart of the Furnace",
+      "stars": 5,
+      "version": "7.0"
+    },
+    {
+      "id": "artifact:huskofopulentdreams",
+      "type": "artifact",
+      "name": "Husk of Opulent Dreams",
+      "stars": 5,
+      "version": "2.3"
+    },
+    {
+      "id": "artifact:instructor",
+      "type": "artifact",
+      "name": "Instructor",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:lavawalker",
+      "type": "artifact",
+      "name": "Lavawalker",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:longnightsoath",
+      "type": "artifact",
+      "name": "Long Night's Oath",
+      "stars": 5,
+      "version": "5.5"
+    },
+    {
+      "id": "artifact:luckydog",
+      "type": "artifact",
+      "name": "Lucky Dog",
+      "stars": 3,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:maidenbeloved",
+      "type": "artifact",
+      "name": "Maiden Beloved",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:marechausseehunter",
+      "type": "artifact",
+      "name": "Marechaussee Hunter",
+      "stars": 5,
+      "version": "4.0"
+    },
+    {
+      "id": "artifact:martialartist",
+      "type": "artifact",
+      "name": "Martial Artist",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:nightoftheskysunveiling",
+      "type": "artifact",
+      "name": "Night of the Sky's Unveiling",
+      "stars": 5,
+      "version": "6.0"
+    },
+    {
+      "id": "artifact:nighttimewhispersintheechoingwoods",
+      "type": "artifact",
+      "name": "Nighttime Whispers in the Echoing Woods",
+      "stars": 5,
+      "version": "4.3"
+    },
+    {
+      "id": "artifact:noblesseoblige",
+      "type": "artifact",
+      "name": "Noblesse Oblige",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:nymphsdream",
+      "type": "artifact",
+      "name": "Nymph's Dream",
+      "stars": 5,
+      "version": "3.6"
+    },
+    {
+      "id": "artifact:obsidiancodex",
+      "type": "artifact",
+      "name": "Obsidian Codex",
+      "stars": 5,
+      "version": "5.0"
+    },
+    {
+      "id": "artifact:oceanhuedclam",
+      "type": "artifact",
+      "name": "Ocean-Hued Clam",
+      "stars": 5,
+      "version": "2.3"
+    },
+    {
+      "id": "artifact:paleflame",
+      "type": "artifact",
+      "name": "Pale Flame",
+      "stars": 5,
+      "version": "1.5"
+    },
+    {
+      "id": "artifact:prayersfordestiny",
+      "type": "artifact",
+      "name": "Prayers for Destiny",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:prayersforillumination",
+      "type": "artifact",
+      "name": "Prayers for Illumination",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:prayersforwisdom",
+      "type": "artifact",
+      "name": "Prayers for Wisdom",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:prayerstospringtime",
+      "type": "artifact",
+      "name": "Prayers to Springtime",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:resolutionofsojourner",
+      "type": "artifact",
+      "name": "Resolution of Sojourner",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:retracingbolide",
+      "type": "artifact",
+      "name": "Retracing Bolide",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:scarletproof",
+      "type": "artifact",
+      "name": "Scarlet Proof",
+      "stars": 5,
+      "version": "7.0"
+    },
+    {
+      "id": "artifact:scholar",
+      "type": "artifact",
+      "name": "Scholar",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:scrolloftheheroofcindercity",
+      "type": "artifact",
+      "name": "Scroll of the Hero of Cinder City",
+      "stars": 5,
+      "version": "5.0"
+    },
+    {
+      "id": "artifact:shimenawasreminiscence",
+      "type": "artifact",
+      "name": "Shimenawa's Reminiscence",
+      "stars": 5,
+      "version": "2.0"
+    },
+    {
+      "id": "artifact:silkenmoonsserenade",
+      "type": "artifact",
+      "name": "Silken Moon's Serenade",
+      "stars": 5,
+      "version": "6.0"
+    },
+    {
+      "id": "artifact:songofdayspast",
+      "type": "artifact",
+      "name": "Song of Days Past",
+      "stars": 5,
+      "version": "4.3"
+    },
+    {
+      "id": "artifact:tenacityofthemillelith",
+      "type": "artifact",
+      "name": "Tenacity of the Millelith",
+      "stars": 5,
+      "version": "1.5"
+    },
+    {
+      "id": "artifact:theexile",
+      "type": "artifact",
+      "name": "The Exile",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:thunderingfury",
+      "type": "artifact",
+      "name": "Thundering Fury",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:thundersoother",
+      "type": "artifact",
+      "name": "Thundersoother",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:tinymiracle",
+      "type": "artifact",
+      "name": "Tiny Miracle",
+      "stars": 4,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:travelingdoctor",
+      "type": "artifact",
+      "name": "Traveling Doctor",
+      "stars": 3,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:unfinishedreverie",
+      "type": "artifact",
+      "name": "Unfinished Reverie",
+      "stars": 5,
+      "version": "4.6"
+    },
+    {
+      "id": "artifact:vermillionhereafter",
+      "type": "artifact",
+      "name": "Vermillion Hereafter",
+      "stars": 5,
+      "version": "2.6"
+    },
+    {
+      "id": "artifact:viridescentvenerer",
+      "type": "artifact",
+      "name": "Viridescent Venerer",
+      "stars": 5,
+      "version": "1.0"
+    },
+    {
+      "id": "artifact:vourukashasglow",
+      "type": "artifact",
+      "name": "Vourukasha's Glow",
+      "stars": 5,
+      "version": "3.6"
+    },
+    {
+      "id": "artifact:wandererstroupe",
+      "type": "artifact",
+      "name": "Wanderer's Troupe",
+      "stars": 5,
+      "version": "1.0"
+    }
+  ]
+}

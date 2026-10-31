@@ -1,0 +1,516 @@
+{
+  "artifact:adaycarvedfromrisingwinds": [
+    "A Note in Spring's Leich",
+    "Dawn's Brilliant Oath",
+    "Heldenepos's Unspoken Tale",
+    "Minnesang of Love and Lament",
+    "Windborne Flower's Spruchdichtung"
+  ],
+  "artifact:adventurer": [
+    "Adventurer's Bandana",
+    "Adventurer's Flower",
+    "Adventurer's Golden Goblet",
+    "Adventurer's Pocket Watch",
+    "Adventurer's Tail Feather"
+  ],
+  "artifact:archaicpetra": [
+    "Feather of Jagged Peaks",
+    "Flower of Creviced Cliff",
+    "Goblet of Chiseled Crag",
+    "Mask of Solitude Basalt",
+    "Sundial of Enduring Jade"
+  ],
+  "artifact:aubadeofmorningstarandmoon": [
+    "Moonlit Offering's Final Hour",
+    "Moonlit Offering's Libation",
+    "Moonlit Offering's Opulent Dream",
+    "Moonlit Offering's Parting Light",
+    "Moonlit Offering's Silver Crown"
+  ],
+  "artifact:berserker": [
+    "Berserker's Battle Mask",
+    "Berserker's Bone Goblet",
+    "Berserker's Indigo Feather",
+    "Berserker's Rose",
+    "Berserker's Timepiece"
+  ],
+  "artifact:blizzardstrayer": [
+    "Broken Rime's Echo",
+    "Frost-Weaved Dignity",
+    "Frozen Homeland's Demise",
+    "Icebreaker's Resolve",
+    "Snowswept Memory"
+  ],
+  "artifact:bloodstainedchivalry": [
+    "Bloodstained Black Plume",
+    "Bloodstained Chevalier's Goblet",
+    "Bloodstained Final Hour",
+    "Bloodstained Flower of Iron",
+    "Bloodstained Iron Mask"
+  ],
+  "artifact:braveheart": [
+    "Crown of the Brave",
+    "Fortitude of the Brave",
+    "Medal of the Brave",
+    "Outset of the Brave",
+    "Prospect of the Brave"
+  ],
+  "artifact:celestialgift": [
+    "Heavensent Crown",
+    "Heavensent Decree",
+    "Heavensent Demise",
+    "Heavensent Fragrance",
+    "Heavensent Reward"
+  ],
+  "artifact:crimsonwitchofflames": [
+    "Witch's End Time",
+    "Witch's Ever-Burning Plume",
+    "Witch's Flower of Blaze",
+    "Witch's Heart Flames",
+    "Witch's Scorching Hat"
+  ],
+  "artifact:deepwoodmemories": [
+    "A Time of Insight",
+    "Labyrinth Wayfarer",
+    "Lamp of the Lost",
+    "Laurel Coronet",
+    "Scholar of Vines"
+  ],
+  "artifact:defenderswill": [
+    "Guardian's Band",
+    "Guardian's Clock",
+    "Guardian's Flower",
+    "Guardian's Sigil",
+    "Guardian's Vessel"
+  ],
+  "artifact:desertpavilionchronicle": [
+    "Defender of the Enchanting Dream",
+    "End of the Golden Realm",
+    "Legacy of the Desert High-Born",
+    "The First Days of the City of Kings",
+    "Timepiece of the Lost Path"
+  ],
+  "artifact:disenchantmentindeepshadow": [
+    "Iridescence That Ceased Amidst Glory",
+    "Moment That Ceased Upon Waking From Grand Dreams",
+    "Ovations That Ceased Upon Festivity",
+    "Pendulum That Ceased Amidst a Great Fall",
+    "Sharpness That Ceased Upon Wondrous Creation"
+  ],
+  "artifact:echoesofanoffering": [
+    "Chalice of the Font",
+    "Flowing Rings",
+    "Jade Leaf",
+    "Soulscent Bloom",
+    "Symbol of Felicitation"
+  ],
+  "artifact:emblemofseveredfate": [
+    "Magnificent Tsuba",
+    "Ornate Kabuto",
+    "Scarlet Vessel",
+    "Storm Cage",
+    "Sundered Feather"
+  ],
+  "artifact:finaleofthedeepgalleries": [
+    "Deep Gallery's Bestowed Banquet",
+    "Deep Gallery's Distant Pact",
+    "Deep Gallery's Echoing Song",
+    "Deep Gallery's Lost Crown",
+    "Deep Gallery's Moment of Oblivion"
+  ],
+  "artifact:flowerofparadiselost": [
+    "A Moment Congealed",
+    "Amethyst Crown",
+    "Ay-Khanoum's Myriad",
+    "Secret-Keeper's Magic Bottle",
+    "Wilting Feast"
+  ],
+  "artifact:fragmentofharmonicwhimsy": [
+    "Ancient Sea's Nocturnal Musing",
+    "Harmonious Symphony Prelude",
+    "Ichor Shower Rhapsody",
+    "The Grand Jape of the Turning of Fate",
+    "Whimsical Dance of the Withered"
+  ],
+  "artifact:gambler": [
+    "Gambler's Brooch",
+    "Gambler's Dice Cup",
+    "Gambler's Earrings",
+    "Gambler's Feather Accessory",
+    "Gambler's Pocket Watch"
+  ],
+  "artifact:gildeddreams": [
+    "Dreaming Steelbloom",
+    "Feather of Judgment",
+    "Honeyed Final Feast",
+    "Shadow of the Sand King",
+    "The Sunken Years"
+  ],
+  "artifact:gladiatorsfinale": [
+    "Gladiator's Destiny",
+    "Gladiator's Intoxication",
+    "Gladiator's Longing",
+    "Gladiator's Nostalgia",
+    "Gladiator's Triumphus"
+  ],
+  "artifact:goldentroupe": [
+    "Golden Bird's Shedding",
+    "Golden Era's Prelude",
+    "Golden Night's Bustle",
+    "Golden Song's Variation",
+    "Golden Troupe's Reward"
+  ],
+  "artifact:heartofdepth": [
+    "Copper Compass",
+    "Gilded Corsage",
+    "Goblet of Thundering Deep",
+    "Gust of Nostalgia",
+    "Wine-Stained Tricorne"
+  ],
+  "artifact:heartofthefurnace": [
+    "Foundryman's Calculus",
+    "Foundryman's Conjecture",
+    "Foundryman's Legacy",
+    "Foundryman's Magnanimity",
+    "Foundryman's Observation"
+  ],
+  "artifact:huskofopulentdreams": [
+    "Bloom Times",
+    "Calabash of Awakening",
+    "Plume of Luxury",
+    "Skeletal Hat",
+    "Song of Life"
+  ],
+  "artifact:instructor": [
+    "Instructor's Brooch",
+    "Instructor's Cap",
+    "Instructor's Feather Accessory",
+    "Instructor's Pocket Watch",
+    "Instructor's Tea Cup"
+  ],
+  "artifact:lavawalker": [
+    "Lavawalker's Epiphany",
+    "Lavawalker's Resolution",
+    "Lavawalker's Salvation",
+    "Lavawalker's Torment",
+    "Lavawalker's Wisdom"
+  ],
+  "artifact:longnightsoath": [
+    "A Horn Unwinded",
+    "Dyed Tassel",
+    "Lightkeeper's Pledge",
+    "Nightingale's Tail Feather",
+    "Undying One's Mourning Bell"
+  ],
+  "artifact:luckydog": [
+    "Lucky Dog's Clover",
+    "Lucky Dog's Eagle Feather",
+    "Lucky Dog's Goblet",
+    "Lucky Dog's Hourglass",
+    "Lucky Dog's Silver Circlet"
+  ],
+  "artifact:maidenbeloved": [
+    "Maiden's Distant Love",
+    "Maiden's Fading Beauty",
+    "Maiden's Fleeting Leisure",
+    "Maiden's Heart-stricken Infatuation",
+    "Maiden's Passing Youth"
+  ],
+  "artifact:marechausseehunter": [
+    "Forgotten Vessel",
+    "Hunter's Brooch",
+    "Masterpiece's Overture",
+    "Moment of Judgment",
+    "Veteran's Visage"
+  ],
+  "artifact:martialartist": [
+    "Martial Artist's Bandana",
+    "Martial Artist's Feather Accessory",
+    "Martial Artist's Red Flower",
+    "Martial Artist's Water Hourglass",
+    "Martial Artist's Wine Cup"
+  ],
+  "artifact:nightoftheskysunveiling": [
+    "Bloom of the Mind's Desire",
+    "Crown of the Befallen",
+    "Feather of Indelible Sin",
+    "Revelation's Toll",
+    "Vessel of Plenty"
+  ],
+  "artifact:nighttimewhispersintheechoingwoods": [
+    "Compassionate Ladies' Hat",
+    "Faithful Hourglass",
+    "Honest Quill",
+    "Magnanimous Ink Bottle",
+    "Selfless Floral Accessory"
+  ],
+  "artifact:noblesseoblige": [
+    "Royal Flora",
+    "Royal Masque",
+    "Royal Plume",
+    "Royal Pocket Watch",
+    "Royal Silver Urn"
+  ],
+  "artifact:nymphsdream": [
+    "Fell Dragon's Monocle",
+    "Heroes' Tea Party",
+    "Nymph's Constancy",
+    "Odyssean Flower",
+    "Wicked Mage's Plumule"
+  ],
+  "artifact:obsidiancodex": [
+    "Crown of the Saints",
+    "Myths of the Night Realm",
+    "Pre-Banquet of the Contenders",
+    "Reckoning of the Xenogenic",
+    "Root of the Spirit-Marrow"
+  ],
+  "artifact:oceanhuedclam": [
+    "Cowry of Parting",
+    "Crown of Watatsumi",
+    "Deep Palace's Plume",
+    "Pearl Cage",
+    "Sea-Dyed Blossom"
+  ],
+  "artifact:paleflame": [
+    "Mocking Mask",
+    "Moment of Cessation",
+    "Stainless Bloom",
+    "Surpassing Cup",
+    "Wise Doctor's Pinion"
+  ],
+  "artifact:prayersfordestiny": [
+    "Tiara of Torrents"
+  ],
+  "artifact:prayersforillumination": [
+    "Tiara of Flame"
+  ],
+  "artifact:prayersforwisdom": [
+    "Tiara of Thunder"
+  ],
+  "artifact:prayerstospringtime": [
+    "Tiara of Frost"
+  ],
+  "artifact:resolutionofsojourner": [
+    "Crown of Parting",
+    "Feather of Homecoming",
+    "Goblet of the Sojourner",
+    "Heart of Comradeship",
+    "Sundial of the Sojourner"
+  ],
+  "artifact:retracingbolide": [
+    "Summer Night's Bloom",
+    "Summer Night's Finale",
+    "Summer Night's Mask",
+    "Summer Night's Moment",
+    "Summer Night's Waterballoon"
+  ],
+  "artifact:scarletproof": [
+    "Chalice of Your Blood and Sorrow",
+    "Glory to Your Legacy",
+    "Honor to Your Devotion",
+    "Testament to Your Faith",
+    "Time Gifted Unto You"
+  ],
+  "artifact:scholar": [
+    "Scholar's Bookmark",
+    "Scholar's Clock",
+    "Scholar's Ink Cup",
+    "Scholar's Lens",
+    "Scholar's Quill Pen"
+  ],
+  "artifact:scrolloftheheroofcindercity": [
+    "Beast Tamer's Talisman",
+    "Demon-Warrior's Feather Mask",
+    "Mountain Ranger's Marker",
+    "Mystic's Gold Dial",
+    "Wandering Scholar's Claw Cup"
+  ],
+  "artifact:shimenawasreminiscence": [
+    "Capricious Visage",
+    "Entangling Bloom",
+    "Hopeful Heart",
+    "Morning Dew's Moment",
+    "Shaft of Remembrance"
+  ],
+  "artifact:silkenmoonsserenade": [
+    "Crystal Tear of the Wanderer",
+    "Frost Devotee's Delirium",
+    "Holy Crown of the Believer",
+    "Joyous Glory of the Pure",
+    "Pristine Plume of the Blessed"
+  ],
+  "artifact:songofdayspast": [
+    "Echoing Sound From Days Past",
+    "Forgotten Oath of Days Past",
+    "Poetry of Days Past",
+    "Promised Dream of Days Past",
+    "Recollection of Days Past"
+  ],
+  "artifact:tenacityofthemillelith": [
+    "Ceremonial War-Plume",
+    "Flower of Accolades",
+    "General's Ancient Helm",
+    "Noble's Pledging Vessel",
+    "Orichalceous Time-Dial"
+  ],
+  "artifact:theexile": [
+    "Exile's Circlet",
+    "Exile's Feather",
+    "Exile's Flower",
+    "Exile's Goblet",
+    "Exile's Pocket Watch"
+  ],
+  "artifact:thunderingfury": [
+    "Hourglass of Thunder",
+    "Omen of Thunderstorm",
+    "Survivor of Catastrophe",
+    "Thunder Summoner's Crown",
+    "Thunderbird's Mercy"
+  ],
+  "artifact:thundersoother": [
+    "Hour of Soothing Thunder",
+    "Thundersoother's Diadem",
+    "Thundersoother's Goblet",
+    "Thundersoother's Heart",
+    "Thundersoother's Plume"
+  ],
+  "artifact:tinymiracle": [
+    "Tiny Miracle's Earrings",
+    "Tiny Miracle's Feather",
+    "Tiny Miracle's Flower",
+    "Tiny Miracle's Goblet",
+    "Tiny Miracle's Hourglass"
+  ],
+  "artifact:travelingdoctor": [
+    "Traveling Doctor's Handkerchief",
+    "Traveling Doctor's Medicine Pot",
+    "Traveling Doctor's Owl Feather",
+    "Traveling Doctor's Pocket Watch",
+    "Traveling Doctor's Silver Lotus"
+  ],
+  "artifact:unfinishedreverie": [
+    "Crownless Crown",
+    "Dark Fruit of Bright Flowers",
+    "Faded Emerald Tail",
+    "Moment of Attainment",
+    "The Wine-Flask Over Which the Plan Was Hatched"
+  ],
+  "artifact:vermillionhereafter": [
+    "Feather of Nascent Light",
+    "Flowering Life",
+    "Moment of the Pact",
+    "Solar Relic",
+    "Thundering Poise"
+  ],
+  "artifact:viridescentvenerer": [
+    "In Remembrance of Viridescent Fields",
+    "Viridescent Arrow Feather",
+    "Viridescent Venerer's Determination",
+    "Viridescent Venerer's Diadem",
+    "Viridescent Venerer's Vessel"
+  ],
+  "artifact:vourukashasglow": [
+    "Ancient Abscission",
+    "Feast of Boundless Joy",
+    "Heart of Khvarena's Brilliance",
+    "Stamen of Khvarena's Origin",
+    "Vibrant Pinion"
+  ],
+  "artifact:wandererstroupe": [
+    "Bard's Arrow Feather",
+    "Concert's Final Hour",
+    "Conductor's Top Hat",
+    "Troupe's Dawnlight",
+    "Wanderer's String-Kettle"
+  ],
+  "character:aratakiitto": [
+    "Arataki",
+    "Itto"
+  ],
+  "character:kaedeharakazuha": [
+    "Kaedehara",
+    "Kazuha"
+  ],
+  "character:kaeya": [
+    "Balls"
+  ],
+  "character:kamisatoayaka": [
+    "Ayaka",
+    "Slumber Party"
+  ],
+  "character:kamisatoayato": [
+    "Ayato",
+    "Boba",
+    "Slumber Party"
+  ],
+  "character:kujousara": [
+    "Kujou",
+    "Sara"
+  ],
+  "character:kukishinobu": [
+    "Kuki",
+    "Shinobu"
+  ],
+  "character:raidenshogun": [
+    "Baal",
+    "Ei",
+    "Goddess Of Thunder",
+    "Raiden",
+    "Shogun"
+  ],
+  "character:sangonomiyakokomi": [
+    "Kokomi",
+    "Sangonomiya"
+  ],
+  "character:shikanoinheizou": [
+    "Heizou",
+    "Shikanoin"
+  ],
+  "character:tartaglia": [
+    "Childe"
+  ],
+  "character:traveler": [
+    "Aether",
+    "Captain of Swordfish II",
+    "Cat Savior",
+    "Chosen of Dragons",
+    "Consultant to the Tsaritsa",
+    "Cutie",
+    "Destined One",
+    "First Sage of Buer",
+    "Fourth Descender",
+    "God of Victorious Linebreaking",
+    "Golden Comet",
+    "Honorary Knight of the Knights of Favonius",
+    "Honorary Senior Researcher of the Fontaine Research Institute",
+    "Knight of Flowers",
+    "Lord of Stars",
+    "Lumine",
+    "Marquis of Carabas",
+    "Master of the Jinni",
+    "Oni King's Right Hand",
+    "Outlander",
+    "Outlander Who Caught The Wind",
+    "Paladin of Breezes and Bells",
+    "Pioneer of the Film Industry",
+    "Proto-Boss",
+    "Soulblazer of the Legion of Soulblazers",
+    "Super Zenith Boss-Level Force",
+    "The Enemy of Eternity",
+    "The Hero of Liyue",
+    "Tumaini",
+    "Witness of Teyvat",
+    "Yasnapati of the Pari"
+  ],
+  "character:yaemiko": [
+    "Guuji Yae",
+    "Miko",
+    "Yae Guuji"
+  ],
+  "character:yumemizukimizuki": [
+    "Mizuki",
+    "Yume glorp glorp",
+    "Yumemizuki"
+  ]
+}

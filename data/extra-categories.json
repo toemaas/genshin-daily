@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "key": "character|group=Hexerei",
+      "prompt": "Name a Hexerei character",
+      "answers": [
+        "character:albedo",
+        "character:durin",
+        "character:fischl",
+        "character:klee",
+        "character:lohen",
+        "character:mona",
+        "character:nicole",
+        "character:prune",
+        "character:razor",
+        "character:sucrose",
+        "character:varka",
+        "character:venti"
+      ]
+    },
+    {
+      "key": "title|of=traveler",
+      "prompt": "Name a title/alias of the Traveler",
+      "answers": [
+        "character:albedo",
+        { "id": "character:kaeya", "weight": 5 },
+        { "id": "title:honorary-knight", "name": "Honorary Knight of the Knights of Favonius", "weight": 8, "aliases": ["Honorary Knight"] }
+      ]
+    },
+    {
+      "key": "name|of=character",
+      "prompt": "Name a character's last name (like Kamisato)",
+      "answers": [
+        { "id": "title:kamisato", "name": "Kamisato", "weight": 1 },
+        { "id": "title:pegg", "name": "Pegg", "weight": 1 }
+      ]
+    }
+  ]
+}
