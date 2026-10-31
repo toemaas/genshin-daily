@@ -90,6 +90,8 @@ These have an accepted set, and every answer is about equally likely. The picker
 
 Add prompts here. Any hand-made question goes in `data/extra-categories.json` as a key, a prompt, and at least 8 answers. An answer can be an existing id (the build fills the weight), an existing id with a hand weight, or a brand-new answer with its own id, name, weight, and aliases.
 
+A category that is not ready yet can sit in that file with `"draft": true`. The build skips it — no size or weight checks, nothing in `categories.json`, and answers it defines stay out of the catalog — until the flag is removed.
+
 - Name a 4-star food
 - Name a viewpoint in Inazuma
 - Name a title/alias of the Traveler

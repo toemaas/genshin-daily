@@ -20,6 +20,7 @@
     },
     {
       "key": "title|of=traveler",
+      "draft": true,
       "prompt": "Name a title/alias of the Traveler",
       "answers": [
         "character:albedo",
@@ -29,6 +30,7 @@
     },
     {
       "key": "name|of=character",
+      "draft": true,
       "prompt": "Name a character's last name (like Kamisato)",
       "answers": [
         { "id": "title:kamisato", "name": "Kamisato", "weight": 1 },

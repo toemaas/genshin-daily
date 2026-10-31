@@ -111,7 +111,7 @@ The daily picker is a date-seeded shuffle. It prefers categories that either hav
 
 A daily question is a reusable category. The build writes it into [`data/categories.json`](data/categories.json). Do not hand-edit that file. The next catalog build replaces it. Scoring, the daily snapshot, and points already apply to every category, so a new question does not get its own scorer.
 
-1. **Write the prompt and the accepted set.** One accepted typed answer, no multiple choice. The set needs at least **8** answers. Fewer than 8 has no rarity spread.
+1. **Write the prompt and the accepted set.** One accepted typed answer, no multiple choice. The set needs at least **8** answers. Fewer than 8 has no rarity spread. While the set is still being collected, keep the category in [`data/extra-categories.json`](data/extra-categories.json) with `"draft": true`: the build skips it and logs it, and removing the flag publishes it.
 2. **Give every answer its own id and canonical name** in a source the build reads. Generated sets come from genshin-db filters such as `character|element=Cryo`. Every other question lives in [`data/extra-categories.json`](data/extra-categories.json), with any kind of answer. Each category has a `key`, a `prompt`, and an `answers` list. The build reads that file and does not rewrite it. Each answer is one of three forms:
 
    ```json

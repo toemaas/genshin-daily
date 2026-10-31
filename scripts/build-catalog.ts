@@ -7,7 +7,8 @@
  *   data/extra-aliases.json     hand-written aliases; this build reads the file and does not rewrite it
  *   data/exceptions.json        extra field values; this build reads the file and does not rewrite it
  *   data/weights.json           per-category weight multipliers; this build reads the file and does not rewrite it
- *   data/extra-categories.json  hand-written prompts and any answers genshin-db lacks; this build reads the file and does not rewrite it
+ *   data/extra-categories.json  hand-written prompts and any answers genshin-db lacks; this build reads the file and does not rewrite it.
+ *                               An entry with "draft": true is skipped until the flag is removed.
  *   data/bonus-answers.json     per-category answers worth 100 points; this build reads the file and does not rewrite it
  *   data/aliases.json           generated aliases plus the hand-written ones
  *   data/categories.json        reusable prompts with day-zero prior shares
@@ -482,10 +483,13 @@ function applyExceptions(entities: CatalogEntity[], exceptions: ExceptionIndex):
  *   { id, name, weight, aliases? }             a new answer; weight is its usual weight
  * A defined answer can be listed by id in other categories.
  * Hand weights and computed weights are on different scales, so one category cannot mix them.
+ * An entry with "draft": true is checked for shape only, then skipped: no size or weight
+ * checks, nothing written to categories.json, and answers it defines stay out of the catalog,
+ * so a live category cannot list them yet.
  */
-function loadExtraCategories(): { categories: ExtraCategory[]; answers: ExtraAnswer[] } {
+function loadExtraCategories(): { categories: ExtraCategory[]; answers: ExtraAnswer[]; draftKeys: string[] } {
   const file = path.join(dataDir, "extra-categories.json");
-  if (!existsSync(file)) return { categories: [], answers: [] };
+  if (!existsSync(file)) return { categories: [], answers: [], draftKeys: [] };
   const parsed: unknown = JSON.parse(readFileSync(file, "utf8"));
   assert(
     parsed !== null && typeof parsed === "object" && !Array.isArray(parsed),
@@ -495,12 +499,17 @@ function loadExtraCategories(): { categories: ExtraCategory[]; answers: ExtraAns
   assert(Array.isArray(rows), "extra-categories.json must have a categories array");
 
   const answers = new Map<string, ExtraAnswer>();
-  const categories = rows.map((entry, index) => {
+  const categories: ExtraCategory[] = [];
+  const draftKeys: string[] = [];
+  rows.forEach((entry, index) => {
     assert(entry !== null && typeof entry === "object" && !Array.isArray(entry), `categories[${index}] must be an object`);
     const row = entry as Record<string, unknown>;
     assert(typeof row.key === "string" && row.key.length > 0, `categories[${index}] needs a key`);
     assert(typeof row.prompt === "string" && row.prompt.length > 0, `${row.key} needs a prompt`);
     assert(Array.isArray(row.answers), `${row.key} needs an answers list`);
+    assert(row.draft === undefined || typeof row.draft === "boolean", `${row.key} draft must be true or false`);
+    // A draft's defined answers are shape-checked, then dropped with the category.
+    const defined = row.draft ? new Map<string, ExtraAnswer>() : answers;
 
     const weights: Record<string, number> = {};
     const answerIds = row.answers.map((item, i) => {
@@ -518,13 +527,14 @@ function loadExtraCategories(): { categories: ExtraCategory[]; answers: ExtraAns
         return ref.id;
       }
       const answer = parseExtraAnswer(item, where);
-      assert(!answers.has(answer.entity.id), `extra-categories.json defines ${answer.entity.id} twice. List it by id after the first time.`);
-      answers.set(answer.entity.id, answer);
+      assert(!defined.has(answer.entity.id), `extra-categories.json defines ${answer.entity.id} twice. List it by id after the first time.`);
+      defined.set(answer.entity.id, answer);
       return answer.entity.id;
     });
-    return { key: row.key, prompt: row.prompt, answerIds, weights };
+    if (row.draft) draftKeys.push(row.key);
+    else categories.push({ key: row.key, prompt: row.prompt, answerIds, weights });
   });
-  return { categories, answers: [...answers.values()] };
+  return { categories, answers: [...answers.values()], draftKeys };
 }
 
 function parseExtraAnswer(item: unknown, where: string): ExtraAnswer {
@@ -850,6 +860,9 @@ function main(): void {
 
   console.log(`entities ${JSON.stringify(counts)}`);
   console.log(`categories ${categories.length} (${skewed} skewed, ${categories.length - skewed} flat)`);
+  if (extra.draftKeys.length > 0) {
+    console.log(`drafts skipped ${extra.draftKeys.length} (${extra.draftKeys.join(", ")})`);
+  }
   console.log(`pyro top ${topPyro.join(", ")}`);
   console.log(`example ${categories.find((category) => category.prompt === "Name a Claymore user from Liyue")?.key ?? "claymore+liyue below the size cutoff"}`);
 }
